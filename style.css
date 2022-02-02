@@ -1,0 +1,70 @@
+.f-regular{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.f-medium{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+.f-bold{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.font-s{
+    font-size: 14px;
+}
+
+.m-b-0{
+    margin-bottom: 0;
+}
+
+.m-b-2{
+    margin-bottom: .7rem;
+}
+
+.m-t-4{
+    margin-top: 1rem;
+}
+
+.m-t-8{
+    margin-top: 2rem;
+}
+
+.line-h{
+    line-height: 2.0;
+}
+
+.youtube-color{
+    color: #FF0000;
+}
+
+.facebook-color{
+    color: #4267B2;
+}
+
+.instagram-color{
+    color: #F77737;
+}
+
+.logo{
+    width: 5rem;
+}
+
+.img-banner{
+    filter: brightness(70%);
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+
+@media (min-width: 992px) {
+
+    .w-md-50{
+        width: 40%;
+    }
+}
