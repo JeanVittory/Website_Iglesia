@@ -17,6 +17,8 @@
     font-size: 14px;
 }
 
+/*Margins*/
+
 .m-b-0{
     margin-bottom: 0;
 }
@@ -33,6 +35,16 @@
     margin-top: 2rem;
 }
 
+/*Paddings*/
+
+.pt-0{
+    padding-top: 0;
+}
+
+.pb-0{
+    padding-bottom: 0;
+}
+
 .line-h{
     line-height: 2.0;
 }
@@ -45,8 +57,8 @@
     color: #4267B2;
 }
 
-.instagram-color{
-    color: #F77737;
+.whatsapp-color{
+    color: #128C7E;
 }
 
 .logo{
