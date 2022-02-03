@@ -1,3 +1,5 @@
+/*Typo*/
+
 .f-regular{
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
@@ -15,6 +17,10 @@
 
 .font-s{
     font-size: 14px;
+}
+
+.font-xs{
+    font-size: 13px;
 }
 
 /*Margins*/
@@ -49,6 +55,8 @@
     line-height: 2.0;
 }
 
+/*Colors*/
+
 .youtube-color{
     color: #FF0000;
 }
@@ -61,13 +69,19 @@
     color: #128C7E;
 }
 
+/*sizing*/
+
 .logo{
     width: 5rem;
 }
 
+/* others */
+
 .img-banner{
     filter: brightness(70%);
 }
+
+/*Alignment*/
 
 .text-align-center{
     text-align: center;
