@@ -81,6 +81,10 @@
     filter: brightness(70%);
 }
 
+.cursor{
+    cursor: pointer;
+}
+
 /*Alignment*/
 
 .text-align-center{
